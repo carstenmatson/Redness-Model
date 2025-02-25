@@ -1,0 +1,6 @@
+flask
+torch
+torchvision
+segmentation-models-pytorch
+pillow
+gunicorn  # Required for Render
